@@ -1,5 +1,4 @@
 def palindrome(a):
-    f=a
     e=str(a)
     b,d,rev=0,0,0
     c=10**(len(e)-1)
